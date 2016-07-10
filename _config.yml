@@ -12,7 +12,7 @@ email: fgs.guedes@gmail.com
 description: >
   Where I eventually publish stuff
 
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://fgsguedes.com" # the base hostname & protocol for your site
 
 name: 'Filipe Guedes'
